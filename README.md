@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nabilmahesaniya
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning javascript & C#
-- 💞️ I’m looking to collaborate on web developement/ practice for job interview.
+- 🌱 I’m currently learning Go-lang
+- 💞️ I’m looking to collaborate on web developement/ back-end practice for job interview.
 
 <!---
 nabilmahesaniya/nabilmahesaniya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
